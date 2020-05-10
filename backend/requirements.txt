@@ -1,0 +1,4 @@
+Flask_Cors==3.0.8
+pytz==2018.3
+psycopg2==2.8.4
+Flask==1.1.1
