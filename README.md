@@ -28,6 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+
 ## Backend
 ### Requirements
 1. Python 3
