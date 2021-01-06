@@ -1,4 +1,5 @@
 # FastFoods
+This is an food delivery web application to be used by customers, restaurants, admins and delivery riders.
 ![FastFoods Main UI](https://github.com/Exprescode/FastFoods/blob/master/images/ui_2.png?raw=true)
 ![FastFoods Order UI](https://github.com/Exprescode/FastFoods/blob/master/images/ui_1.png?raw=true)
 ![FastFoods Promo UI](https://github.com/Exprescode/FastFoods/blob/master/images/ui_3.png?raw=true)
