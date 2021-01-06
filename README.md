@@ -1,4 +1,10 @@
 # FastFoods
+![FastFoods Main UI](https://github.com/Exprescode/FastFoods/blob/master/images/ui_2.png?raw=true)
+![FastFoods Order UI](https://github.com/Exprescode/FastFoods/blob/master/images/ui_1.png?raw=true)
+![FastFoods Promo UI](https://github.com/Exprescode/FastFoods/blob/master/images/ui_3.png?raw=true)
+![FastFoods Admin UI](https://github.com/Exprescode/FastFoods/blob/master/images/ui_4.png?raw=true)
+![FastFoods ER Diagram](https://github.com/Exprescode/FastFoods/blob/master/images/er.png?raw=true)
+
 ## Frontend
 ### Project setup
 ```
